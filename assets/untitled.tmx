@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="16" tileheight="16" infinite="0" nextlayerid="10" nextobjectid="1">
+ <tileset firstgid="1" source="test.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3NsQ0AAAjDsN7S/4/kCwZwJM9pkgIAHLaVr6/vne8XAzSE9OUQDgAA
+  </data>
+ </layer>
+ <layer id="2" name="Tile Layer 2" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3NwQ0AEBQE0b2hElSC/huyRw34EpmXzHkkAACA+5LLQZXjW10LqvPly/eL73AzqKW3NvitlhwQDgAA
+  </data>
+ </layer>
+ <layer id="3" name="Tile Layer 3" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgIA2oALEqFKuRqJcSMGrvqL2j9o7aO2rvqL3D3V4WIGbFgVuQ7G3Gow4bZiNgL7KfqIkJhY8LELvSALsRsHcUjIJRMApGAQIAAN6ZKNAQDgAA
+  </data>
+ </layer>
+ <layer id="6" name="Tile Layer 6" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2SawrCMBCEcwKxHqRoj+GjVm+h9iLqpV0hC8O4SetPZT4YSjbZmWVpSkII8RssspamMde2ph3cvXUynan3UvD0fuwZ6Y37roNaJOReyKv1RBmrL3NLXnvTwXQ0DTSP7yDy5VoLHgjv2fNaUjS/3zUTuX3+IrxnzOrTvNwN5PKealxNt/T53yC4B/fEGTuYG+et8TA9J96wn5/nZgghhPh/Xv108qIQDgAA
+  </data>
+ </layer>
+ <layer id="9" name="Tile Layer 8" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2TOwqAQAxE96orqJXeQUGt9MxOs01wMAFJIfNgSJNk89nUUkoHVae1eOOsXaA1YC3R+GZZPRM0B/pl/iwvq+eErkC/zJ/ljdbL+vXOy+7XWy/r1zuvt/3+9T9n0kMDNCa/u0E7dCS/+zXtZrJpNyOEEEII8cQNyDiYWRAOAAA=
+  </data>
+ </layer>
+ <layer id="8" name="Tile Layer 7" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3NwQkAIAxD0e4oTqJOou7rqVDwlOrxPwjkEmKmqaEXcfuCX375vXUxI2xbYu9ZYnb4nYm9BwAAAH8dgEJ9nRAOAAA=
+  </data>
+ </layer>
+</map>
